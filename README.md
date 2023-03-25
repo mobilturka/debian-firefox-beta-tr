@@ -4,5 +4,5 @@
 # chmod +x build-firefox-beta.sh 
 
 Aşağıdaki komutla çalıştırıp .deb dosyasını alın :)
-# ./build-firefox.sh 
+# ./build-firefox-beta.sh 
 
