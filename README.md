@@ -6,5 +6,5 @@
 Aşağıdaki komutla çalıştırıp .deb dosyasını alın :)
 # ./build-firefox-beta.sh
 
-.deb paketi linki:
+.deb paketi için:
 https://github.com/mobilturka/debian-firefox-beta-tr/releases/tag/latest
